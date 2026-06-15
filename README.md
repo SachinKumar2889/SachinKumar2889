@@ -21,7 +21,7 @@
 
 💬 Ask me about
 
-* Python & Data Science basic
+* Python Programming
 * Machine Learning Fundamentals
 * Data Analytics & Visualization
 * Power BI Dashboards
