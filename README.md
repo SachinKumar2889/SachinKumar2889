@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SachinKumar2889/SachinKumar2889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Developing My Data Science & Analytics Portfolio
+* Machine Learning Projects using Python
+* Building Interactive Power BI Dashboards
+
+🌱 I'm currently learning
+
+* Data Structures & Algorithms (DSA)
+* Machine Learning
+* SQL
+
+👯 I'm looking to collaborate on
+
+* Data Science & Machine Learning Projects
+* Data Analytics & Visualization Projects
+
+💬 Ask me about
+
+* Python & Data Science basic
+* Machine Learning Fundamentals
+* Data Analytics & Visualization
+* Power BI Dashboards
+  
+
+📫 How to reach me
+
+* LinkedIn: [www.linkedin.com/in/sachin8335](http://www.linkedin.com/in/sachin8335)
+* Email: [sachinkumar572889@gmail.com](mailto:sachinkumar572889@gmail.com)
+
+⚡ Fun fact
+
+* I enjoy building data-driven projects and learning new technologies.
